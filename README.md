@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jassss02
 - 👀 I’m interested in cybersecurity and ethical hacking
 - 🌱 I’m currently learning cybersecurity  
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects and research papers in cybersecurity
 - 📫 Reach me at jasmehrkhosla@gmail.com 
 
 <!---
